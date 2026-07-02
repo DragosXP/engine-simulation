@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Core Engine RUnning..."
+echo "Core Engine Platform v1.0.0"
